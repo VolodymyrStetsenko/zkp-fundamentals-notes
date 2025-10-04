@@ -10,8 +10,8 @@ A **zero‑knowledge proof (ZKP)** is a cryptographic protocol that allows one p
 
 ## Ali Baba cave metaphor
 
-The classic analogy describes a circular cave with two entrances and a magic door blocking one path. A prover wants to convince the verifier they know the secret word to open the door without revealing the word. By randomly choosing entrances and demonstrating the ability to exit through requested paths, the prover convinces the verifier with high probability without disclosing the secret【895355980139095†L123-L126】.
+The classic analogy describes a circular cave with two entrances and a magic door blocking one path. A prover wants to convince the verifier they know the secret word to open the door without revealing the word. By randomly choosing entrances and demonstrating the ability to exit through requested paths, the prover convinces the verifier with high probability without disclosing the secret.
 
 ## Interactive vs non‑interactive proofs
 
-In *interactive* proofs, the prover and verifier communicate back and forth. In *non‑interactive* proofs (e.g. SNARKs), interaction is removed by using cryptographic primitives (Fiat–Shamir heuristic) to produce a single succinct proof【895355980139095†L119-L126】.
+In *interactive* proofs, the prover and verifier communicate back and forth. In *non‑interactive* proofs (e.g. SNARKs), interaction is removed by using cryptographic primitives (Fiat–Shamir heuristic) to produce a single succinct proof.
