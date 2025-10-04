@@ -5,7 +5,7 @@ This repository documents my progress, personal notes, example circuits, and fur
 
 <div align="center">
 
-![Course completion badge](assets/zkp‑badge.png)
+![Course completion badge](zkp-badge.png)
 
 </div>
 
@@ -32,7 +32,7 @@ Zero‑knowledge proofs allow a prover to convince a verifier that a statement i
 ├── notes/               # Markdown summaries for each course section
 ├── examples/            # Simple ZK circuits (Noir & Circom)
 ├── resources.md         # Curated list of additional learning materials
-├── assets/              # Images used in this repo (photos & badges)
+├── images (root)        # Photos & badges used in this repo (stored at the repo root)
 └── LICENSE
 ```
 
