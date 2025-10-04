@@ -6,8 +6,8 @@ This page lists some of the articles, tutorials and open source projects I found
 
 | Topic | Source & link |
 |---|---|
-| Introduction to ZKPs | *A Beginner’s Intro to Coding Zero‑Knowledge Proofs* by Santiago Palladino【895355980139095†L131-L133】 |
-| SNARKs & trusted setups | Vitalik Buterin’s blog posts on SNARKs and trusted setups【895355980139095†L139-L149】 |
+| Introduction to ZKPs | *A Beginner’s Intro to Coding Zero‑Knowledge Proofs* by Santiago Palladino |
+| SNARKs & trusted setups | Vitalik Buterin’s blog posts on SNARKs and trusted setups |
 | ZK terminology | [Cyfrin blog post: _What is a zero‑knowledge proof?_](https://www.cyfrin.io/blog/what-is-a-zero-knowledge-proof-a-practical-guide-for-programmers) |
 | ZKPs in blockchain | [Ethereum.org ZKPs page](https://ethereum.org/en/zero-knowledge-proofs/) – explains why ZKPs matter for scalability and privacy |
 | Proof of computation | [Noir documentation](https://noir-lang.org/) – describes how Noir circuits prove computation succinctly |
@@ -16,8 +16,8 @@ This page lists some of the articles, tutorials and open source projects I found
 
 - **Cyfrin Updraft** – [Fundamentals of Zero‑Knowledge Proofs](https://updraft.cyfrin.io/courses/fundamentals-of-zero-knowledge-proofs) (the course I completed).  High‑level introduction; accessible to both developers and non‑developers.
 - **ZK‑Learning.org** – [Zero Knowledge Proofs MOOC](https://zk-learning.org/), a free university‑style course taught by leading researchers.
-- **Porter Adams’s ZK live stream series** – A multi‑part YouTube series exploring ZK circuits and protocols【895355980139095†L170-L196】.
-- **CoinGecko & Jarrod Watts videos** – Introductory videos explaining the Ali Baba cave example and other metaphors【895355980139095†L116-L125】.
+- **Porter Adams’s ZK live stream series** – A multi‑part YouTube series exploring ZK circuits and protocols.
+- **CoinGecko & Jarrod Watts videos** – Introductory videos explaining the Ali Baba cave example and other metaphors.
 
 ## Tools & libraries
 
