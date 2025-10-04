@@ -40,8 +40,8 @@ Zero‑knowledge proofs allow a prover to convince a verifier that a statement i
 
 A quick preview of my notes (see the `notes/` folder for full content):
 
-- **What is a Zero‑Knowledge Proof?** – A protocol where a prover convinces a verifier that a statement is true without revealing any additional information.  The classic Ali Baba cave metaphor shows how ZKPs can provide assurance without disclosure【895355980139095†L95-L126】.
-- **Interactive vs non‑interactive** – Interactive proofs require communication between prover and verifier, whereas non‑interactive proofs (e.g., SNARKs) compress the interaction into a single proof using techniques like the Fiat‑Shamir transform【895355980139095†L119-L126】.
+- **What is a Zero‑Knowledge Proof?** – A protocol where a prover convinces a verifier that a statement is true without revealing any additional information.  The classic Ali Baba cave metaphor shows how ZKPs can provide assurance without disclosure.
+- **Interactive vs non‑interactive** – Interactive proofs require communication between prover and verifier, whereas non‑interactive proofs (e.g., SNARKs) compress the interaction into a single proof using techniques like the Fiat‑Shamir transform.
 - **Trusted setup** – Many ZK systems rely on a setup phase to generate public parameters.  A multi‑party ceremony is often used to ensure no single participant can compromise the security【895355980139095†L135-L139】.
 
 ## 💻 Example: simple Noir circuit
@@ -77,8 +77,8 @@ In addition to the course materials, I explored several up‑to‑date resources
 
 - [**Awesome Zero‑Knowledge Proofs**](https://github.com/matter-labs/awesome-zero-knowledge-proofs) – a curated list of libraries, papers and tutorials.
 - [**ZK‑Learning.org course**](https://zk-learning.org/) – an open course created by Ethereum researchers covering both theory and practice.
-- [**A Beginner’s Intro to Coding Zero‑Knowledge Proofs**](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56) – a great article by Santiago Palladino【895355980139095†L131-L133】.
-- [**Vitalik Buterin’s posts on SNARKs and trusted setups**](https://vitalik.eth.limo/general/2021/01/26/snarks.html) – deeper insights on the cryptography behind ZKPs【895355980139095†L139-L149】.
+- [**A Beginner’s Intro to Coding Zero‑Knowledge Proofs**](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56) – a great article by Santiago Palladino.
+- [**Vitalik Buterin’s posts on SNARKs and trusted setups**](https://vitalik.eth.limo/general/2021/01/26/snarks.html) – deeper insights on the cryptography behind ZKPs.
 - [**Top ZK Projects to Watch in 2025**](https://www.rumblefish.dev/blog/top-zkp-development-companies-to-watch-in-2025) – overview of companies pushing the boundaries in ZK technology.
 
 Check `resources.md` for a full list with annotations and more links.
@@ -86,12 +86,12 @@ Check `resources.md` for a full list with annotations and more links.
 ## 🙏 Acknowledgements
 
 Huge thanks to **Cyfrin Updraft** for producing the _Fundamentals of Zero‑Knowledge Proofs_ course and to the course instructor(s) for making such a complex subject approachable. This repository was created as part of my learning journey and serves as a personal reference.  
-Special thanks to [Patrick Collins](https://twitter.com/PatrickAlphaC) and the Cyfrin team for pioneering educational content in Web3 and security.  
+Special thanks to [Ciara Nightingale]([https://x.com/CiaraNightingal]) and the Cyfrin team for pioneering educational content in Web3 and security.  
 
 ## 📜 License & disclaimer
 
 All original content in this repository (notes, code and examples) is released under the [MIT license](LICENSE) for educational purposes.  
-The course materials referenced belong to Cyfrin Updraft and are licensed under GPLv3【895355980139095†L206-L208】.  
+The course materials referenced belong to Cyfrin Updraft and are licensed under GPLv3.  
 Please review each linked resource’s license before using it in your own projects.
 
 ## 📫 Contact
