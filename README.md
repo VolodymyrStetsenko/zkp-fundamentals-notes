@@ -86,7 +86,7 @@ Check `resources.md` for a full list with annotations and more links.
 ## 🙏 Acknowledgements
 
 Huge thanks to **Cyfrin Updraft** for producing the _Fundamentals of Zero‑Knowledge Proofs_ course and to the course instructor(s) for making such a complex subject approachable. This repository was created as part of my learning journey and serves as a personal reference.  
-Special thanks to [Ciara Nightingale]([https://x.com/CiaraNightingal]) and the Cyfrin team for pioneering educational content in Web3 and security.  
+Special thanks to [Ciara Nightingale](https://x.com/CiaraNightingal) and the Cyfrin team for pioneering educational content in Web3 and security.  
 
 ## 📜 License & disclaimer
 
