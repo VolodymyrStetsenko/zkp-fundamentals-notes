@@ -42,7 +42,7 @@ A quick preview of my notes (see the `notes/` folder for full content):
 
 - **What is a Zero‑Knowledge Proof?** – A protocol where a prover convinces a verifier that a statement is true without revealing any additional information.  The classic Ali Baba cave metaphor shows how ZKPs can provide assurance without disclosure.
 - **Interactive vs non‑interactive** – Interactive proofs require communication between prover and verifier, whereas non‑interactive proofs (e.g., SNARKs) compress the interaction into a single proof using techniques like the Fiat‑Shamir transform.
-- **Trusted setup** – Many ZK systems rely on a setup phase to generate public parameters.  A multi‑party ceremony is often used to ensure no single participant can compromise the security【895355980139095†L135-L139】.
+- **Trusted setup** – Many ZK systems rely on a setup phase to generate public parameters.  A multi‑party ceremony is often used to ensure no single participant can compromise the security.
 
 ## 💻 Example: simple Noir circuit
 
